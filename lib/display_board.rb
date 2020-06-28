@@ -8,8 +8,8 @@
  # puts "   |   |   "
 #end
 
-def display_board(b) 
-  puts "#{b[0]  |   |   "
+def display_board(person) 
+  puts "#{person[0]  |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
