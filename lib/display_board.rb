@@ -8,3 +8,6 @@ def display_board
   puts "   |   |   "
 end
 
+board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+
+display_board(board)
