@@ -9,7 +9,7 @@
 #end
 
 def display_board(person) 
-  puts "#{person[0]  |   |   "
+  puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
