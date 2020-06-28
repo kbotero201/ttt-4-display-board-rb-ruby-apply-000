@@ -8,7 +8,7 @@
  # puts "   |   |   "
 #end
 
-def display_board 
+def display_board(b) 
   puts " #{b[0]  |   |   "
   puts "-----------"
   puts "   |   |   "
